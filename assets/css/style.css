@@ -90,6 +90,8 @@ section {
     padding: 20px;
     color: #024e76;
     border: solid 3px #024e76;
+    width: 40%;
+    margin: 3.5%;
 }
 
 .hero-form h3 {
@@ -99,8 +101,6 @@ margin: 0;
 
 .hero-form p {
     margin: 5px 0 15px 0;
-    width: 40%;
-    margin: 3.5%;
 }
 
 .form-input {
